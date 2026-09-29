@@ -8,7 +8,7 @@ function Footer() {
         <div className="footer-grid">
           {/* Brand */}
           <div className="footer-brand">
-            <span className="footer-logo">حراج</span>
+            <span className="footer-logo">Mo7amed</span>
             <p>سوق الإعلانات المجاني الأول في المملكة العربية السعودية</p>
             <div className="footer-social">
               <a href="#" aria-label="تويتر">𝕏</a>
@@ -38,7 +38,7 @@ function Footer() {
           </div>
 
           <div className="footer-col">
-            <h4>حراج</h4>
+            <h4>Mo7amed</h4>
             <Link to="/about">من نحن</Link>
             <Link to="/contact">اتصل بنا</Link>
             <Link to="/privacy">سياسة الخصوصية</Link>
@@ -48,10 +48,8 @@ function Footer() {
         </div>
 
         <div className="footer-bottom">
-          <p>جميع الحقوق محفوظة © {new Date().getFullYear()} موقع حراج</p>
-          <p className="footer-warning">
-            ⚠️ موظفو حراج لا يطلبون رقمك السري أبداً — لا تخبر أحداً به
-          </p>
+          <p>جميع الحقوق محفوظة © {new Date().getFullYear()} موقع Mo7amed</p>
+          <p>أنت بتفتح موقع Mo7amed — موظفينا لا يطلبون رقمك السري أبداً</p>
         </div>
       </div>
     </footer>

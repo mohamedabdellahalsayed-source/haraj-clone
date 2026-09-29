@@ -20,7 +20,7 @@ function Navbar() {
       <div className="navbar-top">
         <div className="navbar-container">
           <Link to="/" className="navbar-logo">
-            <span className="logo-text">حراج</span>
+            <span className="logo-text">Mo7amed</span>
           </Link>
 
           <form className="navbar-search" onSubmit={handleSearch}>
